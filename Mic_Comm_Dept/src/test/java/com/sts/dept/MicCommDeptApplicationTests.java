@@ -1,0 +1,13 @@
+package com.sts.dept;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MicCommDeptApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
